@@ -13,7 +13,7 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute("alt", "Foto de perfil no tema Light")
   } else {
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatar-dark.png")
     img.setAttribute("alt", "Foto de perfil no tema Dark")
   }
 }
